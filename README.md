@@ -3,6 +3,8 @@
 Esse projeto demonstra os design patterns mais usados.
 Serve como referência rápida para desenvolvedores conhecerem ou lembrarem dos padrões.
 
+- A pasta lib contém os exemplos de código.
+
 #### Abstract Factory
 
 Resumo: O Abstract Factory fornece uma interface para criar famílias de objetos relacionados sem 
