@@ -37,4 +37,6 @@ void main(){
       .withEmail('bento@flutter.dev')
       .build();
   print(user.name);
+  print(user.email);
+  print(user.age);
 }
